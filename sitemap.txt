@@ -26,6 +26,7 @@ www.willusher.io/sitemap.txt
 www.willusher.io/tags
 www.willusher.io/courses/cs6620/tr15
 www.willusher.io/courses/cs6620/tr16
+www.willusher.io/publications/bricktree
 www.willusher.io/publications/tubes
 www.willusher.io/publications/amr
 www.willusher.io/publications/visit-ospray
