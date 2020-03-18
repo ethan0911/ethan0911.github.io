@@ -26,6 +26,7 @@ www.sci.utah.edu/~feng/sitemap.txt
 www.sci.utah.edu/~feng/tags
 www.sci.utah.edu/~feng/courses/cs6620/tr15
 www.sci.utah.edu/~feng/courses/cs6620/tr16
+www.sci.utah.edu/~feng/publications/tbamr
 www.sci.utah.edu/~feng/publications/bricktree
 www.sci.utah.edu/~feng/publications/tubes
 www.sci.utah.edu/~feng/publications/amr
